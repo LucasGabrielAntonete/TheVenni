@@ -6,7 +6,7 @@
   
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheVenni&theme=midnight-purple&layout=compact&hide=vue,html,javascript,pascal,cmake,c" style="max-width:100%;" height="180em">
  
-   <img alt="GabrielTorrente" src="https://github-readme-streak-stats.herokuapp.com?user=TheVenni&theme=midnight-purple" style="max-width:100%;" width="430" align="middle">
+   <img alt="TheVenni" src="https://github-readme-streak-stats.herokuapp.com?user=TheVenni&theme=midnight-purple" style="max-width:100%;" width="430" align="middle">
  
 </div>
 
