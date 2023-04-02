@@ -27,7 +27,7 @@
 <hr>
 <div align="center">
  <a href="https://play.google.com/store/apps/dev?id=9031067964054757274">
-  <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white" style="max-width:100%;" width="110"   height="27">
+  <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white" style="max-width:100%;" width="120"   height="27">
  </a>
  <a href="https://www.linkedin.com/in/ogabrielpereiraa">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;" width="110"        height="27">
