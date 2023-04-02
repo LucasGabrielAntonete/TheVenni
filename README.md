@@ -29,6 +29,12 @@
  <a href="https://play.google.com/store/apps/dev?id=9031067964054757274">
   <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white" style="max-width:100%;" width="110"   height="27">
  </a>
+ <a href="https://www.linkedin.com/in/ogabrielpereiraa">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;" width="110"        height="27">
+ </a>
+ <a href="https://drive.google.com/file/d/18yzMSPHimZ6bWEJubuu9wYWM0dBF2Fol/view">
+ <img alt="My Curriculum" src="https://img.shields.io/badge/My%20Curriculum-Gabriel%20L.%20Pereira-2ea44f?style=for-the-badge&logo=bookstack&logoColor=white" style="max-width:100%;" width="295" height="27">
+ </a>
 </div>
 
 
